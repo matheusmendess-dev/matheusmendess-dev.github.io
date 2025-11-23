@@ -43,8 +43,8 @@ Descrição breve aqui…
 ---
 
 ## 🌐 Contatos
-📧 **Email:** mateusmendes… (adicione seu email)  
-🔗 **LinkedIn:** https://linkedin.com/in/seuusuario  
+📧 **Email:** matheus_mendesc@outlook.com 
+🔗 **LinkedIn:** www.linkedin.com/in/matheus-mendes-94b176328
 💻 **Portfólio Online:** https://matheusmendess-dev.github.io  
 
 ---
